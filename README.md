@@ -54,7 +54,7 @@ Join Worker Nodes <br/>
 <img src="https://i.postimg.cc/ZRrc55bm/7.jpg" />
 <br />
 <br />
-Deploy Test Application & Test Failover Scenarios <br/>
+Deploy Test Application & Test Failover Scenarios by simulating master node and etcd node failures <br/>
 <img src="https://i.postimg.cc/s2XWLPHb/8.jpg" />
 <br />
 <br />
