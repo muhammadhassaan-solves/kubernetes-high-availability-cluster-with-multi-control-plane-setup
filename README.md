@@ -11,7 +11,7 @@ Implemented a resilient Kubernetes cluster with multiple control plane nodes and
 - kubeadm
 - etcd
 - HAProxy
-- Docker
+- Containerd
 - Flannel CNI
 - Linux (Ubuntu 24.04)
 - SSH
