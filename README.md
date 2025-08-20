@@ -62,5 +62,6 @@ Implemented a resilient Kubernetes cluster with multiple control plane nodes and
 <br />
 <br />
 
+> For detailed step-by-step commands, see [Kubernetes_HA_Cluster_Setup.md](Kubernetes_HA_Cluster_Setup.md)
 </p>
 
